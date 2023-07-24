@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 812.0, 302.0, 1640.0, 859.0 ],
+		"rect" : [ 303.0, 128.0, 1640.0, 859.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -60,21 +60,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 1,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 425.537792865348706, 232.411142971911431, 17.0, 17.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 282.473110364116678, 1.141648516071314, 13.5, 13.5 ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "led[39]",
-							"parameter_mmax" : 1.0,
-							"parameter_shortname" : "led[4]",
-							"parameter_type" : 3
-						}
-
-					}
-,
 					"thickness" : 80.0,
 					"varname" : "led[4]"
 				}
@@ -88,21 +77,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 1,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 400.786291970969387, 232.411142971911431, 17.0, 17.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 260.819271364116673, 1.141648516071314, 13.5, 13.5 ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "led[30]",
-							"parameter_mmax" : 1.0,
-							"parameter_shortname" : "led[5]",
-							"parameter_type" : 3
-						}
-
-					}
-,
 					"thickness" : 80.0,
 					"varname" : "led[5]"
 				}
@@ -116,21 +94,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 1,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 376.034791076590125, 232.411142971911431, 17.0, 17.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 239.165432364116668, 1.141648516071314, 13.5, 13.5 ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "led[40]",
-							"parameter_mmax" : 1.0,
-							"parameter_shortname" : "led[6]",
-							"parameter_type" : 3
-						}
-
-					}
-,
 					"thickness" : 80.0,
 					"varname" : "led[6]"
 				}
@@ -144,21 +111,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 1,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 351.283290182210862, 232.411142971911431, 17.0, 17.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 217.511562364116685, 1.141648516071314, 13.5, 13.5 ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "led[36]",
-							"parameter_mmax" : 1.0,
-							"parameter_shortname" : "led[7]",
-							"parameter_type" : 3
-						}
-
-					}
-,
 					"thickness" : 80.0,
 					"varname" : "led[7]"
 				}
@@ -172,21 +128,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 1,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 326.5317892878316, 232.411142971911431, 17.0, 17.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 195.85772336411668, 1.141648516071314, 13.5, 13.5 ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "led[34]",
-							"parameter_mmax" : 1.0,
-							"parameter_shortname" : "led[8]",
-							"parameter_type" : 3
-						}
-
-					}
-,
 					"thickness" : 80.0,
 					"varname" : "led[8]"
 				}
@@ -200,21 +145,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 1,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 301.780288393452338, 232.411142971911431, 17.0, 17.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 174.203884364116675, 1.141648516071314, 13.5, 13.5 ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "led[31]",
-							"parameter_mmax" : 1.0,
-							"parameter_shortname" : "led[10]",
-							"parameter_type" : 3
-						}
-
-					}
-,
 					"thickness" : 80.0,
 					"varname" : "led[10]"
 				}
@@ -228,21 +162,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 1,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 277.028787499073076, 232.411142971911431, 17.0, 17.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 152.55004536411667, 1.141648516071314, 13.5, 13.5 ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "led[32]",
-							"parameter_mmax" : 1.0,
-							"parameter_shortname" : "led[12]",
-							"parameter_type" : 3
-						}
-
-					}
-,
 					"thickness" : 80.0,
 					"varname" : "led[12]"
 				}
@@ -256,21 +179,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 1,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 252.277286604693813, 232.411142971911431, 17.0, 17.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 130.896190364116677, 1.141648516071314, 13.5, 13.5 ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "led[33]",
-							"parameter_mmax" : 1.0,
-							"parameter_shortname" : "led[14]",
-							"parameter_type" : 3
-						}
-
-					}
-,
 					"thickness" : 80.0,
 					"varname" : "led[14]"
 				}
@@ -509,21 +421,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 1,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 227.525785710314551, 232.411142971911431, 17.0, 17.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 109.242351364116672, 1.141648516071314, 13.5, 13.5 ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "led[37]",
-							"parameter_mmax" : 1.0,
-							"parameter_shortname" : "led[16]",
-							"parameter_type" : 3
-						}
-
-					}
-,
 					"thickness" : 80.0,
 					"varname" : "led[16]"
 				}
@@ -537,21 +438,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 1,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 202.774284815935289, 232.411142971911431, 17.0, 17.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 87.588512364116667, 1.141648516071314, 13.5, 13.5 ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "led[35]",
-							"parameter_mmax" : 1.0,
-							"parameter_shortname" : "led[18]",
-							"parameter_type" : 3
-						}
-
-					}
-,
 					"thickness" : 80.0,
 					"varname" : "led[18]"
 				}
@@ -565,21 +455,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 1,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 178.022783921556027, 232.411142971911431, 17.0, 17.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 65.934658364116672, 1.141648516071314, 13.5, 13.5 ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "led[41]",
-							"parameter_mmax" : 1.0,
-							"parameter_shortname" : "led[20]",
-							"parameter_type" : 3
-						}
-
-					}
-,
 					"thickness" : 80.0,
 					"varname" : "led[20]"
 				}
@@ -593,21 +472,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 1,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 153.271283027176764, 232.411142971911431, 17.0, 17.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 44.280819364116667, 1.141648516071314, 13.5, 13.5 ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "led[38]",
-							"parameter_mmax" : 1.0,
-							"parameter_shortname" : "led[22]",
-							"parameter_type" : 3
-						}
-
-					}
-,
 					"thickness" : 80.0,
 					"varname" : "led[22]"
 				}
@@ -621,21 +489,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 1,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 128.519782132797502, 232.411142971911431, 17.0, 17.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 22.626972364116682, 1.141648516071314, 13.5, 13.5 ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "led[43]",
-							"parameter_mmax" : 1.0,
-							"parameter_shortname" : "led[24]",
-							"parameter_type" : 3
-						}
-
-					}
-,
 					"thickness" : 80.0,
 					"varname" : "led[24]"
 				}
@@ -649,21 +506,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 1,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 103.76828123841824, 232.411142971911431, 17.0, 17.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 0.973125364116669, 1.141648516071314, 13.5, 13.5 ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "led[42]",
-							"parameter_mmax" : 1.0,
-							"parameter_shortname" : "led[26]",
-							"parameter_type" : 3
-						}
-
-					}
-,
 					"thickness" : 80.0,
 					"varname" : "led[26]"
 				}
@@ -968,7 +814,7 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-4",
-					"index" : 0,
+					"index" : 2,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
@@ -981,7 +827,7 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-2",
-					"index" : 0,
+					"index" : 1,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
@@ -1400,36 +1246,7 @@
 				}
 
 			}
- ],
-		"parameters" : 		{
-			"obj-106" : [ "led[41]", "led[20]", 0 ],
-			"obj-107" : [ "led[38]", "led[22]", 0 ],
-			"obj-108" : [ "led[43]", "led[24]", 0 ],
-			"obj-109" : [ "led[42]", "led[26]", 0 ],
-			"obj-259" : [ "led[39]", "led[4]", 0 ],
-			"obj-260" : [ "led[30]", "led[5]", 0 ],
-			"obj-261" : [ "led[40]", "led[6]", 0 ],
-			"obj-262" : [ "led[36]", "led[7]", 0 ],
-			"obj-263" : [ "led[34]", "led[8]", 0 ],
-			"obj-264" : [ "led[31]", "led[10]", 0 ],
-			"obj-265" : [ "led[32]", "led[12]", 0 ],
-			"obj-266" : [ "led[33]", "led[14]", 0 ],
-			"obj-88" : [ "led[37]", "led[16]", 0 ],
-			"obj-90" : [ "led[35]", "led[18]", 0 ],
-			"parameterbanks" : 			{
-				"0" : 				{
-					"index" : 0,
-					"name" : "",
-					"parameters" : [ "-", "-", "-", "-", "-", "-", "-", "-" ]
-				}
-
-			}
-,
-			"inherited_shortname" : 1
-		}
-,
-		"dependency_cache" : [  ],
-		"autosave" : 0
+ ]
 	}
 
 }
