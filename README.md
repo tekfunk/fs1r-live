@@ -1,4 +1,5 @@
 # FS1Rlive
+![FS1R Live](./fs1r.png "FS1R Live")
 A Max for Live Device for controlling a Yamaha FS1R.  Uses sysex to sync device parameters.
 
 ## SETUP
